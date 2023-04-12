@@ -27,7 +27,7 @@
 * Are any of the nodes missing a `status` value?
 
 # Question 2
-* Which of the nodes in `nodes.csv` are not within 150 m of any other node?
+* Which of the nodes in `nodes.csv` are not within 150 m (straight line distance) of any other node?
     * Assume all values are in metres
 
 # Question 3 
