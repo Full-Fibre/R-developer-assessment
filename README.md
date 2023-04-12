@@ -31,7 +31,7 @@
     * Assume all values are in metres
 
 # Question 3 
-* Compute the distance from each node to node 1 (`id = 1`) when travelling across the network edges provided in `edges.csv`
+* Compute the shortest path distance from each node to node 1 (`id = 1`) when travelling across the network edges provided in `edges.csv`
     * Assume there is no direction associated with the edges
 
 # Question 4 
